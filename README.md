@@ -1,1 +1,14 @@
 # node
+
+Get list of globally installed packages
+```
+npm list -g --depth 0
+```
+List outdated global packages
+```
+npm outdated -g --depth=0
+```
+Upgrade global package
+```
+npm update -g create-react-app
+```
