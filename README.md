@@ -12,3 +12,7 @@ Upgrade global package
 ```
 npm update -g create-react-app
 ```
+Upgrade global package to latest (major) version
+```
+npm install -g create-react-app@latest
+```
