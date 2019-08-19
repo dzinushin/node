@@ -1,4 +1,4 @@
-# node
+# node package managment
 
 Get list of globally installed packages
 ```
@@ -15,4 +15,12 @@ npm update -g create-react-app
 Upgrade global package to latest (major) version
 ```
 npm install -g create-react-app@latest
+```
+
+# node modules
+
+BAAPAN https://github.com/dpjayasekara/baapan
+```
+npm install -g baapan
+baapan
 ```
